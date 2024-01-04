@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap');
+
+header{
+    z-index: 100001 !important;
+}
+.outlineBtn{
+  @apply px-4 py-2 bg-transparent border border-primary
+   text-primary rounded hover:bg-primary hover:text-white transition-all duration-300
+}
+.btn-primary{
+  @apply bg-primary px-8 py-4 hover:bg-body transition-all 
+  duration-300  hover:-translate-y-3 text-white text-xl rounded-full
+}
+.imgShadow{
+  border-bottom: 3px solid #e5502f;
+  border-right: 3px solid #e5502f;
+  /* border-left: 3px solid #ee3b3b;  */
+  /* border-top: 3px solid #ee3b3b; */
+
+  box-shadow: 15px 13px 30px 5px #e5502f;
+  
+  border-radius: 74% 36% 41% 59% / 38% 28% 72% 62% ;
+}
+.skillcard{
+  border-bottom: 4px solid #e5502f;
+}
+.imgShadow2{
+  border-radius: 100% ;
+  box-shadow: -4px 3px 49px -9px #e5502f;
+  border-bottom: 3px solid #e5502f;
+  border-right: 3px solid #e5502f;
+  border-left: 3px solid #ee3b3b;
+  border-top: 3px solid #ee3b3b;
+}
+.hoverNav{
+  
+  @apply hover:-translate-y-3;
+}
