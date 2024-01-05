@@ -17,7 +17,7 @@ const Home = () => {
           <p className="text-body text-xl leading-9 mb-9">An Information Technology (IT) Officer with a passion for leveraging technology to drive innovation and efficiency. Throughout my career, I have immersed myself in the dynamic world of IT, 
             navigating the ever-evolving landscape with a keen focus on delivering cutting-edge solutions.</p>
 
-            <a href={cv}><button className="btn-primary">Download CV</button></a>
+            <a target='_blank' href={cv}><button className="btn-primary">Download CV</button></a>
         </div>
         
       </div>
