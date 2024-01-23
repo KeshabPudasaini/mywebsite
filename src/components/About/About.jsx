@@ -13,7 +13,7 @@ export default function About() {
           <p className="text-xl font-semibold mb-5">About</p>
           <h2 className="md:text-6xl text-4xl font-bold">About Me</h2>
           <p className="mt-8 md:pr-8 mb-8 text-xl">
-            here we going to wirte a paragraph in thi section
+            here we going to wirte a paragraph in this section
           </p>
           <Link to="contact" spy ={true} activeClass="active" smooth={true} offset={-100}>
           <button className="btn-primary text-2xl">Contact Me</button>

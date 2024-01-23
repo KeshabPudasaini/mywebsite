@@ -50,7 +50,7 @@ function Contact() {
 
                 <div className="flex items-center mt-8 text-gray-600">
                 <a target='_blank' 
-                href="https://www.google.com/maps/place/27%C2%B036'28.6%22N+85%C2%B016'14.8%22E/@27.6079509,85.2659131,784m/data=!3m2!1e3!4b1!4m7!1m2!2m1!1sDakshinkali+Mandir!3m3!8m2!3d27.607951!4d85.270784?entry=ttu">
+                href="https://www.google.com/maps/place/J75C%2B498,+Dakshinkali+44600/@27.6076823,85.2707979,84m/data=!3m1!1e3!4m6!3m5!1s0x39eb3d805d64eeed:0x26f05f0e7976d012!8m2!3d27.6077891!4d85.2709335!16s%2Fg%2F11k87t4qxy?entry=ttu">
                   <svg
                     fill="none"
                     stroke="currentColor"

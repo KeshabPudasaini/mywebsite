@@ -20,8 +20,9 @@ const skills = [
     id: 3,
     name: "Office 360",
     description1: "Admin Side",
-    description2: "Ms Teams",
+    description2: "MS Office 365",
     description3: "Outlook",
+    description4: " Active Directory",
   },
   {
     id: 4,
