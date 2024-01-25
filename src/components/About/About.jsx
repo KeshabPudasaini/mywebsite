@@ -13,7 +13,7 @@ export default function About() {
           <p className="text-xl font-semibold mb-5">About</p>
           <h2 className="md:text-6xl text-4xl font-bold">About Me</h2>
           <p className="mt-8 md:pr-8 mb-8 text-xl">
-            Hi, I'm Keshab  Pudasaini, your IT Officer with a passion for turning
+            Hi, I'm Keshab Pudasaini, your IT Officer with a passion for turning
             tech challenges into solutions. With 5+ of experience, I bring
             expertise in Networking hardware and software. I thrive on blending
             technical know-how with a business mindset. Let's connect and
