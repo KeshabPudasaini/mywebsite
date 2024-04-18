@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { HiMenu } from "react-icons/hi";
 import {Link} from 'react-scroll';
 import "animate.css"
+import logo from "./LOGO.png"
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -29,9 +30,9 @@ const Navbar = () => {
           <Link to="home" spy ={true} activeClass="active" smooth={true} offset={-100}>
          
           <h3 className=" font-roboto text-3xl animate__animated animate__animated animate__heartBeat  animate__slower 3s	 animate__infinite ">
-            KE<span className="text-primary">SH</span>AB  
+            <img src={logo} style = {{ height: "2.5rem"}} alt="" />
           </h3>
-
+    
           </Link>
           </div>
           {/* menu items for large device  */}
