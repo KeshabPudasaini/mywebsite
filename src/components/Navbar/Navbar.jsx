@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { HiMenu } from "react-icons/hi";
 import {Link} from 'react-scroll';
 import "animate.css"
-import logo from "./LOGO.png";
+import logo from "../../assets/LOGO.png";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
