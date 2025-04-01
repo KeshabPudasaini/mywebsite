@@ -3,40 +3,47 @@ import React from "react";
 const skills = [
   {
     id: 1,
-    name: "Hardware and Software",
-    description1: "Windows",
-    description2: "Linux ",
-    description3: "MacOS",
+    name: "Technical Skills",
+    description1: "Operating Imaging Equipment",
+    description2: "Image Quality Control ",
+    description3: "Radiation Safety",
+    description4: "Image Processing",
   },
   {
     id: 2,
-    name: "Networking Devices",
-    description1: "Switches",
-    description2: "Router",
-    description3: "Networking devices",
-    description4: "CCTV",
+    name: "Patient Care and Communication",
+    description1: "Patient Positioning",
+    description2: "Attention to Patient Needs",
+    description3: "Medical History Gathering",
   },
   {
     id: 3,
-    name: "Office 360",
-    description1: "Admin Side",
-    description2: "MS Office 365",
-    description3: "Outlook",
-    description4: " Active Directory",
+    name: "Anatomical Knowledge",
+    description1: "Understanding Human Anatomy",
+    description2: "Radiographic Anatomy:",
   },
   {
     id: 4,
-    name: "Database",
-    description1: "SQL Server",
-    description2: "Windows Server",
+    name: "Radiology Techniques",
+    description1: "Fluoroscopy",
+    description2: "Contrast Studies",
+    description2: "Advanced Imaging Techniques",
     
   },
   {
     id: 5,
-    name: "Networking",
-    description1: "LAN",
-    description2: "WAN",
-    description3: "MAN",
+    name: "Knowledge of Radiology Safety",
+    description1: "Radiation Protection",
+    description2: "Compliance with Regulations",
+    description3: "Use of Protective Gear",
+    
+  },
+  {
+    id: 6,
+    name: "Time Management and Organizational Skills",
+    description1: "Efficient Workflow",
+    description2: "Prioritizing Procedures",
+    description3: "Managing Equipment",
     
   }
 ];
