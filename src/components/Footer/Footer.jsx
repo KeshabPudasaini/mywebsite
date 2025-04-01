@@ -10,7 +10,7 @@ function Footer() {
       <a href=""className="flex-shrink-0">
         {/* <img src={logo} alt="logo" className="w-15 h-14 hover:-translate-y-3"/> */}
         <h3 className=" font-roboto text-4xl hover:-translate-y-3 ">
-          KE<span className="text-primary">SH</span>AB  
+          RO<span className="text-primary">SHA</span>NI  
         </h3>
         </a>
       <div className="flex flex-col sm:flex-row md:items-center gap-1 flex-wrap ">
@@ -34,10 +34,10 @@ function Footer() {
         <a target='_blank' href="/">
         <FaGithub className="cursor-pointer hover:-translate-y-3 transition-all duration-300 text-xl hover:text-primary"/>
         </a>
-        <a target = "_blank" href="https://www.facebook.com/lucky.pudasaini?mibextid=ZbWKwL">
+        <a target = "_blank" href="">
         <FaFacebookF className="cursor-pointer hover:-translate-y-3 transition-all duration-300 text-xl hover:text-primary"/>
         </a>
-        <a target='_blank' href="https://www.instagram.com/keshab.pudasaini3/">
+        <a target='_blank' href="">
         <FaInstagram className="cursor-pointer hover:-translate-y-3 transition-all duration-300 text-xl hover:text-primary"/>
         </a>
       </div>

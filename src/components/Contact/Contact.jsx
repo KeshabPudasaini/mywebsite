@@ -98,7 +98,7 @@ function Contact() {
                     />
                   </svg>
                   <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                    +977 9841697075
+                    +977 9843623990
                   </div>
                 </div>
 
@@ -123,7 +123,7 @@ function Contact() {
                   </svg>
                   </a>
                   <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                    keshab.pudasaini3@gmail.com
+                    rosnigiri0@gmail.com
                   </div>
                 </div>
               </div>
