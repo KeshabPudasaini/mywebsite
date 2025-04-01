@@ -21,6 +21,10 @@ export default function About() {
             I strive to make every patient experience as positive as possible while producing accurate and reliable results.
             I am excited about the opportunity to contribute to a dynamic healthcare team and support patient-centered care through my expertise in diagnostic radiography.
           </p>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
           <Link
             to="contact"
             spy={true}
