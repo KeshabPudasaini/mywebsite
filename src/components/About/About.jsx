@@ -24,7 +24,7 @@ export default function About() {
           <br></br>
           <br></br>
           <br></br>
-          <br></br>
+
           <Link
             to="contact"
             spy={true}
